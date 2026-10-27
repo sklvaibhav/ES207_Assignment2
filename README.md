@@ -23,13 +23,13 @@ The file **`dT_outer_spherical_harmonics_l10.txt`** is organized into four tab-s
 
 Write a script (in Python, or MATLAB) to evaluate the reconstructed field on a global grid (e.g., latitude $\lambda \in [-90^\circ, 90^\circ]$, longitude $\phi \in [0^\circ, 360^\circ]$ or $[-180^\circ, 180^\circ]$) and plot the following four cases:
 
-1. **(a):** $$l = 2, \quad m = 1$$
+**(a):** $$l = 2, \quad m = 1$$
 
-2. **(b):** $$0 \le l \le 2, \quad 0 \le m \le l$$
+**(b):** $$0 \le l \le 2, \quad 0 \le m \le l$$
 
-3. **(c):** $$0 \le l \le 5, \quad 0 \le m \le l$$
+**(c):** $$0 \le l \le 5, \quad 0 \le m \le l$$
 
-4. **(d):** $$0 \le l \le 10, \quad 0 \le m \le l$$
+**(d):** $$0 \le l \le 10, \quad 0 \le m \le l$$
 
 ---
 
