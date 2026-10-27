@@ -31,6 +31,8 @@ Write a script (in Python, or MATLAB) to evaluate the reconstructed field on a g
 
 **(d):** $$0 \le l \le 10, \quad 0 \le m \le l$$
 
+**Note:** Solution for part (d) is attached as file delQ_l10.png for your script verification.
+
 ---
 
 ## Plotting & Submission Requirements
