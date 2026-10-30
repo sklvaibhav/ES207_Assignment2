@@ -21,7 +21,7 @@ The file **`dT_outer_spherical_harmonics_l10.txt`** is organized into four tab-s
 ---
 ## Assignment Tasks
 
-Write a script (in Python, or MATLAB) to evaluate the reconstructed field on a global grid (e.g., latitude $\lambda \in [-90^\circ, 90^\circ]$, longitude $\phi \in [-180^\circ, 180^\circ]$) and plot the following four cases:
+**1:** Write a script (in Python, or MATLAB) to evaluate the reconstructed field on a global grid (e.g., latitude $\lambda \in [-90^\circ, 90^\circ]$, longitude $\phi \in [-180^\circ, 180^\circ]$) and plot the following four cases:
 
 **(a):** $$l = 2, \quad m = 1$$
 
@@ -33,6 +33,8 @@ Write a script (in Python, or MATLAB) to evaluate the reconstructed field on a g
 
 **Note:** Solution for part (b) is attached as file delQ_l2.png for your script verification.
 
+**2:** Plot the power spectrum and mention exclusively which degree and order contains the maximum power.
+
 ---
 
 ## Plotting & Submission Requirements
@@ -40,7 +42,7 @@ Write a script (in Python, or MATLAB) to evaluate the reconstructed field on a g
 For each part (a)–(d):
 * Display the spatial distribution on HAMMER projection.
 * Use "bwr" colormap in python or use "bwr.m" file provided in matlab.
-* Submit your source code alongside the four generated map plots.
+* Submit your source code alongside the generated plots.
 ---
 #### **Course:** ES207 Earth Science Laboratory
 
