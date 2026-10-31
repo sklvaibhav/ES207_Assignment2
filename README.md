@@ -33,7 +33,7 @@ The file **`dT_outer_spherical_harmonics_l10.txt`** is organized into four tab-s
 
 **Note:** Solution for part (b) is attached as file delQ_l2.png for your script verification.
 
-**2:** Plot the power spectrum and mention exclusively which degree and order contains the maximum power.
+**2:** Compute and plot the power spectrum. State explicitly the degree ($l$) with the highest total power, as well as the specific $(l,m)$ mode carrying the maximum power.
 
 ---
 
